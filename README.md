@@ -17,6 +17,6 @@ https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscell
 
 Overview:
 
-We think that the best neighborhood should be the most stable neighborhood where people should have the ability to obtain basic needs, feel safe in the place and feel safe in transportation.
+We believe that the best neighborhood should be the most stable neighborhood, where people can get their basic needs met, feel safe in their surroundings, and have access to trasportation. So, we looked at the data that shows the percentage of people with salaries, the crime data, and the traffic data in the neighborhood.
 
 
