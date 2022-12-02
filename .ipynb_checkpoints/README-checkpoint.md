@@ -4,7 +4,7 @@ Team name: Group WEJ
 
 Team members: 
 Weini Xie He (email: wex59@pitt.edu)
-Ethan Guan (email: )
+Ethan Guan (email:dig48@pitt.edu )
 Jingtao Zhao (email: JIZ240@pitt.edu)
 
 Database:
@@ -16,6 +16,10 @@ https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscell
 
 Total population data.
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3?inner_span=True
+
+Traffic Data.
+https://data.wprdc.org/datastore/dump/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
+
 
 Overview:
 
