@@ -4,7 +4,7 @@ Team name: Group WEJ
 
 Team members: 
 Weini Xie He (email: wex59@pitt.edu)
-Ethan Guan (email: )
+Ethan Guan (email: JIZ240@pitt.edu)
 Jingtao Zhao (email: )
 
 Database:
