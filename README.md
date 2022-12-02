@@ -8,7 +8,8 @@ Ethan Guan (email: )
 Jingtao Zhao (email: JIZ240@pitt.edu)
 
 Database:
-
+The number of people who being arrested in each neighborhood.
+https://data.wprdc.org/dataset/arrest-data
 The number of people with salary in each neighborhood.
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/d159c6b3-f70a-439b-bd2b-0cb8735d76d4
 
