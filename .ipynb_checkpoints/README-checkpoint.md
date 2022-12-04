@@ -3,8 +3,11 @@
 Team name: Group WEJ
 
 Team members: 
+
 Weini Xie He (email: wex59@pitt.edu)
+
 Ethan Guan (email:dig48@pitt.edu )
+
 Jingtao Zhao (email: JIZ240@pitt.edu)
 
 Database:
@@ -23,6 +26,6 @@ https://data.wprdc.org/datastore/dump/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 
 Overview:
 
-We believe that the best neighborhood should be the most stable neighborhood, where people can get their basic needs met, feel safe in their surroundings, and have access to trasportation. So, we looked at the data that shows the percentage of people with salaries, the crime data, and the traffic data in the neighborhood.
+We believe that the best neighborhood should be the most stable neighborhood, where people can get their basic needs met, feel safe in their surroundings, and have the less traffic. So, we looked at the data that shows the percentage of people with salaries, the crime data, and the traffic data in the neighborhood.
 
 
