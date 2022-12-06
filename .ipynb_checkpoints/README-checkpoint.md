@@ -5,10 +5,13 @@ Team name: Group WEJ
 Team members: 
 
 Weini Xie He (email: wex59@pitt.edu)
+wex59.ipynb
 
 Ethan Guan (email:dig48@pitt.edu )
+EthanGuan.ipynb
 
 Jingtao Zhao (email: JIZ240@pitt.edu)
+JingtaoZhao.ipynb
 
 Database:
 The number of people who being arrested in each neighborhood.
