@@ -2,7 +2,7 @@
 
 Team name: Group WEJ
 
-Team members: 
+Team members(Group 41): 
 
 Weini Xie He (email: wex59@pitt.edu)
 wex59.ipynb
